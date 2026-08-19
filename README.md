@@ -2,7 +2,7 @@
 
 Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名公司品牌风格预设**（腾讯、阿里、B 站、Apple、Spotify 等），方便快速产出有辨识度的原创方向。
 
-**仓库地址：** https://github.com/WillNam/IPbuildlogo
+**作者：** WillNam · https://github.com/WillNam/IPbuildlogo
 
 遵循开放 Agent Skills 格式，兼容 Codex、Cursor 等 Agent 环境。
 
@@ -90,4 +90,4 @@ LICENSE
 
 ## License
 
-MIT — 见 [LICENSE](LICENSE)
+Copyright © 2026 [WillNam](https://github.com/WillNam) · MIT — 见 [LICENSE](LICENSE)

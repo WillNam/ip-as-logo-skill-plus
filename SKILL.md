@@ -5,9 +5,11 @@ description: Generate highly simplified personified IP mascot logos with flat-fi
 
 # IPbuildlogo
 
+**WillNam 出品的 IP 吉祥物 Logo 生成 Skill。**
+
 Create a **logo first**, character second. Reduce the subject to a compact symbol readable at `32 × 32`; do not produce a character illustration.
 
-> **Plus enhancement:** When the user names a company, industry, or brand vibe, consult `references/brand-presets.md` for silhouette, color, and personality anchors. Always create an **original** mascot — never reproduce trademarked logos.
+> When the user names a company, industry, or brand vibe, consult `references/brand-presets.md` for silhouette, color, and personality anchors. Always create an **original** mascot — never reproduce trademarked logos.
 
 ## Quick start
 
