@@ -1,6 +1,6 @@
 # IPbuildlogo
 
-在 [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) 基础上优化增强的 Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名公司品牌风格预设**（腾讯、阿里、B 站、Apple、Spotify 等），方便快速产出有辨识度的原创方向。
+Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名公司品牌风格预设**（腾讯、阿里、B 站、Apple、Spotify 等），方便快速产出有辨识度的原创方向。
 
 **仓库地址：** https://github.com/WillNam/IPbuildlogo
 
@@ -8,16 +8,15 @@
 
 ![IP as Logo showcase](assets/ip-as-logo-wall.webp)
 
-## 相比原版的增强
+## 核心能力
 
-| 能力 | 原版 | Plus |
-|------|------|------|
-| 核心 logo 规范 | ✅ | ✅ 保留并结构化 |
-| 品牌风格预设库 | ❌ | ✅ 20+ 公司/行业锚点 |
-| 行业模板 | ❌ | ✅ fintech / edtech / AI 等 |
-| 示例 Prompt | ❌ | ✅ 中英双语 |
-| 商标规避规则 | 基础 | ✅ 强化 do-not-copy 清单 |
-| 中英 README | EN | ✅ 双语 |
+| 能力 | 说明 |
+|------|------|
+| Logo 规范 | 圆角轮廓、三语义色、32×32 可识别 |
+| 品牌风格预设库 | 20+ 公司/行业锚点 |
+| 行业模板 | fintech / edtech / AI 等 |
+| 示例 Prompt | 中英双语 |
+| 商标规避 | do-not-copy 清单 |
 
 > **重要：** 预设仅作**设计方向参考**，输出必须是**原创**吉祥物，不得复制任何注册商标图形。
 
@@ -59,7 +58,7 @@ Create a rounded ghost IP logo on deep navy background.
 
 ## 内置品牌预设（部分）
 
-**中国互联网：** 腾讯、阿里、字节跳动、美团、B 站、微信、京东、小米、华为、网易
+**中国互联网：** 腾讯、阿里、字节跳动、美团、 B 站、微信、京东、小米、华为、网易
 
 **全球：** Apple、Google、Meta、Amazon、Spotify、Slack、Discord、Nike、Starbucks、Coca-Cola
 
@@ -88,10 +87,6 @@ LICENSE
 - 75–85% 角落构图，配对特征必须完整
 - Flat-first + 连续渐变微体积（OKLCH L 变化 ≤ 0.08）
 - 禁止复制商标、禁止 contact sheet 拼版
-
-## 致谢
-
-基于 [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)（MIT）fork 并增强。
 
 ## License
 
