@@ -1,6 +1,8 @@
-# IP as Logo Plus
+# IPbuildlogo
 
 在 [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) 基础上优化增强的 Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名公司品牌风格预设**（腾讯、阿里、B 站、Apple、Spotify 等），方便快速产出有辨识度的原创方向。
+
+**仓库地址：** https://github.com/WillNam/IPbuildlogo
 
 遵循开放 Agent Skills 格式，兼容 Codex、Cursor 等 Agent 环境。
 
@@ -22,13 +24,13 @@
 ## 安装
 
 ```bash
-npx skills@latest add <your-github-username>/ip-as-logo-skill-plus
+npx skills@latest add WillNam/IPbuildlogo
 ```
 
 全局安装：
 
 ```bash
-npx skills@latest add <your-github-username>/ip-as-logo-skill-plus --global
+npx skills@latest add WillNam/IPbuildlogo --global
 ```
 
 或手动复制 `SKILL.md` 及 `references/`、`examples/` 到项目的 `.cursor/skills/` 或 `.codex/skills/` 目录。
@@ -86,16 +88,6 @@ LICENSE
 - 75–85% 角落构图，配对特征必须完整
 - Flat-first + 连续渐变微体积（OKLCH L 变化 ≤ 0.08）
 - 禁止复制商标、禁止 contact sheet 拼版
-
-## 上传到 GitHub
-
-```bash
-cd ip-as-logo-skill-plus
-git add .
-git commit -m "Initial release: IP as Logo Plus with brand presets"
-git remote add origin https://github.com/<your-username>/ip-as-logo-skill-plus.git
-git push -u origin main
-```
 
 ## 致谢
 

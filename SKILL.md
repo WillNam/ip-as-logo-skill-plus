@@ -1,9 +1,9 @@
 ---
-name: ip-as-logo-plus
+name: ipbuildlogo
 description: Generate highly simplified personified IP mascot logos with flat-first geometry, rounded heavy forms, two IP colors plus one background color, and continuous-gradient neo-skeuomorphic micro-volume. Includes brand-inspired preset library (Tencent, Alibaba, ByteDance, Apple, etc.) for recognizable industry directions. Use when creating animal, creature, robot, ghost, plant, object, or character logos, or when the user asks for a logo in the style of a well-known company mascot.
 ---
 
-# IP as Logo Plus
+# IPbuildlogo
 
 Create a **logo first**, character second. Reduce the subject to a compact symbol readable at `32 × 32`; do not produce a character illustration.
 
