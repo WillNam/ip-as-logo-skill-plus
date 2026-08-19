@@ -6,7 +6,7 @@ Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名�
 
 遵循开放 Agent Skills 格式，兼容 Codex、Cursor 等 Agent 环境。
 
-![IP as Logo showcase](assets/ip-as-logo-wall.webp)
+![IP as Logo showcase](assets/ip-logo-showcase.png)
 
 ## 核心能力
 
@@ -74,7 +74,7 @@ references/
 examples/
   prompts.md                      # 中英示例 Prompt
 assets/
-  ip-as-logo-wall.webp            # 展示图
+  ip-logo-showcase.png            # 展示图
 README.md
 LICENSE
 ```
