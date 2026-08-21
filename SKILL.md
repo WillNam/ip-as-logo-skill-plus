@@ -158,6 +158,6 @@ Background transparency alone is permitted. State exact findings for every candi
 
 | File | Purpose |
 |------|---------|
-| `references/brand-presets.md` | 20+ company/industry mascot direction presets |
+| `references/brand-presets.md` | 30+ company/industry mascot direction presets |
 | `references/industry-templates.md` | Vertical-specific IP suggestions |
 | `examples/prompts.md` | Copy-ready prompt examples (CN/EN) |

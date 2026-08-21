@@ -99,12 +99,20 @@ Subject: simplified robot head with visor.
 
 | Prompt snippet | Loads preset |
 |----------------|--------------|
-| "腾讯风格" | Tencent |
-| "阿里/电商感" | Alibaba |
+| "腾讯风格" / "QQ企鹅气质" | Tencent |
+| "阿里/电商感" / "淘宝感" | Alibaba |
 | "字节/抖音感" | ByteDance |
 | "B站/二次元" | Bilibili |
 | "微信绿" | WeChat |
+| "京东狗气质" | JD |
+| "小红书种草感" | Xiaohongshu |
+| "拼多多/社交电商" | Pinduoduo |
+| "百度搜索感" | Baidu |
+| "滴滴出行感" | DiDi |
+| "知乎知识感" | Zhihu |
 | "Apple 极简" | Apple |
 | "Nike 运动感" | Nike |
+| "ChatGPT/AI助手气质" | OpenAI vibe |
+| "GitHub 开发者感" | GitHub |
 
 Agent: always read `references/brand-presets.md` for full palette and do-not-copy rules.

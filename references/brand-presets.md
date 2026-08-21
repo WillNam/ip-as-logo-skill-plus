@@ -125,6 +125,94 @@ Use these presets as **design direction anchors** when the user references a com
 | **personality** | Creative, cultural, slightly literary |
 | **do_not_copy** | NetEase red envelope logo, Cloud Music exact mark |
 
+### Baidu 百度
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 百度, Baidu |
+| **metaphor** | Search & knowledge — discovery, helpful guide |
+| **silhouette_cue** | Compact bear-like creature OR rounded paw print as secondary belly region |
+| **palette** | IP: Baidu blue `oklch(0.55 0.16 255)` + warm cream; bg: soft sky or white-cream |
+| **personality** | Helpful, reliable, slightly cute |
+| **do_not_copy** | Baidu bear exact mark, paw logo, wordmark |
+
+### Xiaohongshu 小红书
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 小红书, Xiaohongshu, RED, 小红书笔记 |
+| **metaphor** | Lifestyle discovery — share, aesthetic, community |
+| **silhouette_cue** | Rounded book/notebook with one bookmark tab OR soft heart-blob with face |
+| **palette** | IP: RED coral-red `oklch(0.58 0.18 25)` + cream; bg: warm blush or soft pink-gray |
+| **personality** | Aesthetic, lifestyle, youthful share culture |
+| **do_not_copy** | Xiaohongshu wordmark, exact notebook logo |
+
+### Pinduoduo 拼多多
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 拼多多, Pinduoduo, PDD, Duo Duo |
+| **metaphor** | Social commerce — group buy, fun, value |
+| **silhouette_cue** | Twin rounded duo blobs OR single chubby creature with duo-ear bumps |
+| **palette** | IP: PDD red `oklch(0.55 0.20 25)` + sunny yellow secondary; bg: cream or soft orange |
+| **personality** | Playful, bargain-happy, social |
+| **do_not_copy** | Duo Duo exact characters, PDD wordmark |
+
+### Kuaishou 快手
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 快手, Kuaishou, Kwai |
+| **metaphor** | Short video for everyone — real life, speed, grassroots |
+| **silhouette_cue** | Rounded hand/gesture blob OR lightning-soft curve as one defining bump |
+| **palette** | IP: Kuaishou orange `oklch(0.68 0.17 50)` + charcoal; bg: deep navy or warm gray |
+| **personality** | Down-to-earth, energetic, inclusive |
+| **do_not_copy** | Kuaishou hand logo exact geometry |
+
+### DiDi 滴滴
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 滴滴, DiDi, 滴滴出行 |
+| **metaphor** | Mobility — go anywhere, orange energy |
+| **silhouette_cue** | Rounded car/face hybrid OR friendly orange blob with wheel-like side bumps |
+| **palette** | IP: DiDi orange `oklch(0.70 0.16 55)` + white face; bg: charcoal or soft teal |
+| **personality** | Fast, urban, service-oriented |
+| **do_not_copy** | DiDi orange mark exact shape, wordmark |
+
+### Zhihu 知乎
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 知乎, Zhihu |
+| **metaphor** | Knowledge Q&A — curiosity, thoughtful community |
+| **silhouette_cue** | Rounded question-mark creature OR owl with book-belly secondary region |
+| **palette** | IP: Zhihu blue `oklch(0.52 0.14 250)` + cream; bg: soft gray-blue or parchment |
+| **personality** | Intellectual, calm, curious |
+| **do_not_copy** | Zhihu wordmark, exact "知" mark |
+
+### NetEase Cloud Music / 网易云音乐（独立强调）
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 网易云音乐, NetEase Music, 云村 |
+| **metaphor** | Music community — emotion, playlists, red vinyl vibe |
+| **silhouette_cue** | Soft disc/vinyl circle with one note bump OR cloud with headphone ear pair |
+| **palette** | IP: Cloud Music red `oklch(0.52 0.19 25)` + near-black; bg: charcoal or cream |
+| **personality** | Emotional, music-nerd, community |
+| **do_not_copy** | Cloud Music note logo, red vinyl exact mark |
+
+### Sogou / Sohu 搜狗搜狐（可选）
+
+| Field | Value |
+|-------|-------|
+| **aliases** | 搜狗, Sogou, 搜狐, Sohu |
+| **metaphor** | Search fox — clever discovery |
+| **silhouette_cue** | Compact fox head: rounded snout, one ear pair, cheek mask secondary region |
+| **palette** | IP: warm orange + cream; bg: deep navy |
+| **personality** | Clever, quick, search-forward |
+| **do_not_copy** | Sogou fox exact design |
+
 ---
 
 ## 全球科技 & 消费
@@ -239,6 +327,50 @@ Use these presets as **design direction anchors** when the user references a com
 | **personality** | Classic, joyful, social |
 | **do_not_copy** | Dynamic ribbon script, contour bottle exact shape |
 
+### Microsoft
+
+| Field | Value |
+|-------|-------|
+| **aliases** | Microsoft, 微软, Windows |
+| **metaphor** | Productivity & platforms — reliable tools for everyone |
+| **silhouette_cue** | Soft 2×2 rounded square tiles as one continuous window-head OR friendly office blob |
+| **palette** | IP: pick TWO from {blue, green, yellow, red} as semantic regions only; bg: soft gray or white-cream |
+| **personality** | Practical, enterprise-friendly, clear |
+| **do_not_copy** | Windows 4-pane exact logo, Microsoft wordmark |
+
+### OpenAI / ChatGPT vibe
+
+| Field | Value |
+|-------|-------|
+| **aliases** | OpenAI, ChatGPT, AI assistant |
+| **metaphor** | Generative intelligence — calm helper, abstract mind |
+| **silhouette_cue** | Soft hexagonal blossom simplified to 6 blunt petal bumps OR orb with one visor band |
+| **palette** | IP: teal-black `oklch(0.35 0.04 200)` + soft sage; bg: soft mint or deep charcoal |
+| **personality** | Calm, intelligent, approachable |
+| **do_not_copy** | OpenAI blossom exact geometry, ChatGPT mark |
+
+### GitHub
+
+| Field | Value |
+|-------|-------|
+| **aliases** | GitHub, Octocat |
+| **metaphor** | Developer community — code, collaboration, open source |
+| **silhouette_cue** | Rounded cat-octopus hybrid with soft tentacle bumps OR cat head with code-visor |
+| **palette** | IP: near-black + purple accent secondary; bg: cream or charcoal |
+| **personality** | Geeky, collaborative, builder culture |
+| **do_not_copy** | Octocat exact design, GitHub mark |
+
+### Netflix
+
+| Field | Value |
+|-------|-------|
+| **aliases** | Netflix |
+| **metaphor** | Streaming entertainment — binge, drama, night viewing |
+| **silhouette_cue** | Soft letter-N abstract as one continuous ribbon OR popcorn blob with face |
+| **palette** | IP: Netflix red `oklch(0.50 0.20 25)` + near-black; bg: charcoal or deep burgundy |
+| **personality** | Dramatic, entertainment-forward, bold |
+| **do_not_copy** | Netflix N ribbon exact geometry, wordmark |
+
 ---
 
 ## Preset selection cheat sheet
@@ -246,11 +378,20 @@ Use these presets as **design direction anchors** when the user references a com
 | User intent | Start with |
 |-------------|------------|
 | 社交 / IM | Tencent, WeChat, Meta |
-| 电商 / 本地生活 | Alibaba, JD, Meituan, Amazon |
-| 内容 / 短视频 | ByteDance, Bilibili, Spotify |
+| 电商 / 本地生活 | Alibaba, JD, Meituan, Pinduoduo, Amazon |
+| 内容 / 短视频 | ByteDance, Kuaishou, Bilibili, Spotify, Netflix |
+| 搜索 / 知识 | Baidu, Zhihu, Google |
+| 生活方式 / 种草 | Xiaohongshu, Starbucks |
+| 出行 | DiDi |
 | 硬件 / 手机 | Apple, Xiaomi, Huawei |
-| 游戏 / 社区 | Discord, Bilibili, NetEase |
+| 游戏 / 社区 | Discord, Bilibili, NetEase, GitHub |
+| 音乐 | Spotify, NetEase Cloud Music |
 | 运动 / 消费 | Nike, Starbucks, Coca-Cola |
-| 企业协作 | Slack, Google |
+| 企业协作 / 生产力 | Slack, Google, Microsoft |
+| AI / Agent | OpenAI vibe, industry AI templates |
 
 When user names **two brands** (e.g., "腾讯 meets Spotify"), merge compatible silhouette + palette cues and explicitly note the hybrid rationale in the direction line.
+
+## Count
+
+Current library: **30+** brand-inspired presets (CN tech + global consumer). Prefer the most specific alias match; fall back to industry templates when no company is named.

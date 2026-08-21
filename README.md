@@ -1,6 +1,10 @@
 # IPbuildlogo
 
+<<<<<<< HEAD
 Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名公司品牌风格预设**（腾讯、阿里、B 站、Apple、Spotify 等），方便快速产出有辨识度的原创方向。
+=======
+在 [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) 基础上优化增强的 Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **30+ 知名公司品牌风格预设**（腾讯、阿里、B 站、百度、小红书、Apple、Spotify、OpenAI 等），方便快速产出有辨识度的原创方向。
+>>>>>>> 3470668 (Expand brand presets to 30+ recognizable company anchors.)
 
 **作者：** WillNam · https://github.com/WillNam/IPbuildlogo
 
@@ -10,6 +14,7 @@ Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名�
 
 ## 核心能力
 
+<<<<<<< HEAD
 | 能力 | 说明 |
 |------|------|
 | Logo 规范 | 圆角轮廓、三语义色、32×32 可识别 |
@@ -17,6 +22,16 @@ Agent Skill：生成高度简化的 IP 吉祥物 logo，并内置 **20+ 知名�
 | 行业模板 | fintech / edtech / AI 等 |
 | 示例 Prompt | 中英双语 |
 | 商标规避 | do-not-copy 清单 |
+=======
+| 能力 | 原版 | IPbuildlogo |
+|------|------|------|
+| 核心 logo 规范 | ✅ | ✅ 保留并结构化 |
+| 品牌风格预设库 | ❌ | ✅ 30+ 公司/行业锚点 |
+| 行业模板 | ❌ | ✅ fintech / edtech / AI 等 |
+| 示例 Prompt | ❌ | ✅ 中英双语 |
+| 商标规避规则 | 基础 | ✅ 强化 do-not-copy 清单 |
+| 中英 README | EN | ✅ 双语 |
+>>>>>>> 3470668 (Expand brand presets to 30+ recognizable company anchors.)
 
 > **重要：** 预设仅作**设计方向参考**，输出必须是**原创**吉祥物，不得复制任何注册商标图形。
 
@@ -58,9 +73,13 @@ Create a rounded ghost IP logo on deep navy background.
 
 ## 内置品牌预设（部分）
 
+<<<<<<< HEAD
 **中国互联网：** 腾讯、阿里、字节跳动、美团、 B 站、微信、京东、小米、华为、网易
+=======
+**中国互联网：** 腾讯、阿里、字节跳动、美团、B 站、微信、京东、小米、华为、网易、百度、小红书、拼多多、快手、滴滴、知乎、网易云音乐
+>>>>>>> 3470668 (Expand brand presets to 30+ recognizable company anchors.)
 
-**全球：** Apple、Google、Meta、Amazon、Spotify、Slack、Discord、Nike、Starbucks、Coca-Cola
+**全球：** Apple、Google、Meta、Amazon、Spotify、Slack、Discord、Nike、Starbucks、Coca-Cola、Microsoft、OpenAI、GitHub、Netflix
 
 完整列表见 [`references/brand-presets.md`](references/brand-presets.md)。
 
